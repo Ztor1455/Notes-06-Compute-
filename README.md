@@ -60,25 +60,26 @@
 •	Completely automates the administration, manages the infrastructure 
 
 •	Protection against machine failures or data center failures 
-AWS Elastic Beanstalk 
+
+## AWS Elastic Beanstalk 
 
 •	Easy way to get web apps running 
 
 •	Managed service that handles 
 
-  o	Infrastructure provisioning and configuration 
+    o	Infrastructure provisioning and configuration 
 
-  o	Deployment 
+    o	Deployment 
 
-  o	Load Balancing 
+    o	Load Balancing 
 
-  o	Automatic scaling 
+    o	Automatic scaling 
 
-  o	Health Monitoring 
+    o	Health Monitoring 
 
-  o	Analysis and debugging 
+    o	Analysis and debugging 
 
-  o	Logging 
+    o	Logging 
 
 •	No additional charge
 
